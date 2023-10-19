@@ -1,6 +1,6 @@
  # Replit-Python-Random-Password-Generator
  
- Using the Replit Program to design a Random Password Generator on Python
+ Using the Replit Program I designed a Random Password Generator on Python
 ==============
 
 Jordan Chipley
