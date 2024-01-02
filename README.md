@@ -1,4 +1,4 @@
-!(python_pic.png)
+python_pic.png
 
  # Replit-Python-Random-Password-Generator
  
