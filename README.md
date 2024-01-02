@@ -38,19 +38,22 @@ Scenario 1: The user picks 1 after they determine the password length, meaning t
 3. The user likes the generated password, or they can regenerate another.
 
 Scenario 2: The user picks 2 after they determine the password length, meaning they only want the password to generate numbers:
-•	1. The player wants a 5-character long password, that only has number characters in it. (Picks 2 from choice.)
-•	2. The password is generated to their specified length: (ex: 61901)
-•	3. The user likes the generated password, or they can regenerate another.
+
+1. The player wants a 5-character long password, that only has number characters in it. (Picks 2 from choice.)
+2. The password is generated to their specified length: (ex: 61901)
+3. The user likes the generated password, or they can regenerate another.
 
 Scenario 3: The user picks 3 after they determine the password length, meaning they only want the password to special characters:
-•	1. The player wants a 5-character long password, that only special characters in it. (Picks 3 from choices.) 
-•	2. The password is generated to their specified length: (ex: $@*!^)
-•	3. The user likes the generated password, or they can regenerate another.
+
+1. The player wants a 5-character long password, that only special characters in it. (Picks 3 from choices.) 
+2. The password is generated to their specified length: (ex: $@*!^)
+3. The user likes the generated password, or they can regenerate another.
 
 Scenario 4: The user picks to include all choices after they determine the password length, meaning they want the password to have letters, numbers, and special characters:
-•	1. The player wants a 5-character long password, that only special characters in it. (Picks 1 enter: 2 enter: 3 enter.) 
-•	2. The password is generated to their specified length: (ex: A7$b!)
-•	3. The user likes the generated password, or they can regenerate another.
+
+1. The player wants a 5-character long password, that only special characters in it. (Picks 1 enter: 2 enter: 3 enter.) 
+2. The password is generated to their specified length: (ex: A7$b!)
+3. The user likes the generated password, or they can regenerate another.
 
 
 ![conventional_vs_Snopf](readme/conventional_vs_snopf.png)
