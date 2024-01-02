@@ -1,3 +1,5 @@
+!(python_pic.png)
+
  # Replit-Python-Random-Password-Generator
  
  Using the Visual Studio Code: Python Code for a Random Password Generator
