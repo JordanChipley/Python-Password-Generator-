@@ -31,10 +31,11 @@ So, I decided to design a random password generator using the coding langauge Py
 * Every password generatored is unique and strong
 
 ### Working Through Specific Examples:
-Scenario 1: The user picks 1 after they determine the password length, meaning they only want the password to generate letters from the alphabet: 
-•	1. The player wants a 5-character long password, that only has alphabet characters in it. (Picks 1 from choices.) 
-•	2. The password is generated to their specified length: (ex: aUsQo)
-•	3. The user likes the generated password, or they can regenerate another.
+Scenario 1: The user picks 1 after they determine the password length, meaning they only want the password to generate letters from the alphabet:
+ 
+1. The player wants a 5-character long password, that only has alphabet characters in it. (Picks 1 from choices.) 
+2. The password is generated to their specified length: (ex: aUsQo)
+3. The user likes the generated password, or they can regenerate another.
 
 Scenario 2: The user picks 2 after they determine the password length, meaning they only want the password to generate numbers:
 •	1. The player wants a 5-character long password, that only has number characters in it. (Picks 2 from choice.)
