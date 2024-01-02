@@ -1,3 +1,5 @@
+C:\Users\chipl\OneDrive\Desktop\Intro_to_Python_Programming\python_pic.png
+
 # Python-Random-Password-Generator
  
 Using Visual Studio Code: Build a Random Password Generator using Python
