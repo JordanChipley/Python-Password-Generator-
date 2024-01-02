@@ -1,13 +1,7 @@
  # Replit-Python-Random-Password-Generator
  
- Using the Replit Program I designed a Random Password Generator on Python
+ Using the Visual Studio Code: Python Code for a Random Password Generator
 ==============
-
-Jordan Chipley
-
-CS1100: Introduction to Python Programming - Summer 2023
-
-----------------------------
 
 Run Command:
 
@@ -21,22 +15,13 @@ Run Command:
 
 	python main.py <input file name>
 
-# Snopf USB password token
-
-> Info: The password creation algorithm for Snopf has been fundamentally changed since 6b1df42b0c21d2e936d6018c70f1937114251a39. The new firmware and the new tools and account table files aren't compatible with the former version. The command line tool has been deprecated. Snopf also switched from using a 128 bit secret to using a 256 bit secret on the device. For upgrading the firmware you can use the firmware updater from the bootloader repository [here](https://github.com/Snopf/Snopf_bootloader). For installation and configuration follow this readme.
-
-## What is Snopf?
+## Defining Your Problem:
 
 ![Snopf device](readme/snopf_header.jpg)
 
-Snopf is a very simple, yet effective and easy to use USB password tool. The Snopf USB device creates a unique and strong password for every service from the same 256 bit secret which never leaves the token.
+I recently had my password stolen online from a online gaming account. It turns out that the password that I picked for that account was not very strong, nor was it able to protect my account from getting hacked. I then came to the realization that I needed to find a way to come up with stronger passwords when it comes to the applications that I use.
 
-Whenever Snopf is plugged into the computer you can make a password request and then the red LED will light up. If you press the button within 10 seconds Snopf will imitate a keyboard and type the password for the requested service.
-
-Snopf is designed as a hardware-based password generator to tackle the security issues most commonly encountered with stored passwords on ordinary PCs, such as reading of password files by malware or browser exploits. It generates passwords deterministically from a securely kept master secret unaccessible to software running on the host. 
-
-For more details on security and how it works, see the section *Security considerations* and *Operation principle* below.
-Instructions on how to build your own are found in the section *Hardware* and *Building the Firmware and Host Software*. A short manual on how to use Snopf after you installed the software is found in *How to use it*.
+So, I decided to design a random password generator using the coding langauge Python. I chose to use the the programing application Visual Code Studio when writing the random password generator. 
 
 ## Advantages of Snopf
 
