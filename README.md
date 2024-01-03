@@ -1,7 +1,6 @@
 ![python_pic](https://github.com/JordanChipley/Python-Password-Generator-/assets/85317317/1b6d1d79-e41b-4d44-8a92-01fc0843ef65)
 
-# Python-Programming-Random-Password-Generator
-==============
+## Python-Programming-Random-Password-Generator
 
 ## Defining Your Problem:
 
@@ -16,7 +15,7 @@ So, I decided to design a random password generator using the coding langauge Py
 * Characters used are letters of the alphabet (both upper and lower case), numbers (0-9), and special characters
 * Every password generatored is unique and strong
 
-### Working Through Specific Examples of how to use the Python Program:
+## Working Through Specific Examples of how to use the Python Program:
 
 Scenario 1: The user picks 1 after they determine the password length, meaning they only want the password to generate letters from the alphabet:
  
